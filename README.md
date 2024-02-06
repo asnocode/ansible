@@ -85,4 +85,5 @@ Plugins
 Pieces of code that expand Ansible’s core capabilities. Plugins can control how you connect to a managed node (connection plugins), manipulate data (filter plugins) and even control what is displayed in the console (callback plugins).
 
 Collections
+
 A format in which Ansible content is distributed that can contain playbooks, roles, modules, and plugins. Collection resources can be used independently and discretely from each other.
